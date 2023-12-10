@@ -1,1 +1,1 @@
-# Data-Anlytics-prctice-by-Akhil
+#Data analysis project on student_scores using python_
